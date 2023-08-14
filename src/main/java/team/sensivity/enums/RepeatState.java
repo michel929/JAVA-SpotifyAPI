@@ -1,4 +1,4 @@
-package team.sensivity.objects;
+package team.sensivity.enums;
 
 public enum RepeatState {
     OFF,
