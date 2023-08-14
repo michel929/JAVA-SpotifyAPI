@@ -2,69 +2,69 @@
 
 ## Methods
 
--[ ] **Albums**
-    -[ ] Get Album
-    -[ ] Get Several Albums
-    -[ ] Get Album Tracks
-    -[ ] Get User's Saved Albums
-    -[ ] Save Albums for Current User
-    -[ ] Remove User's Saved Albums
--[ ] **Artists**
-    -[ ] Get Artist
-    -[ ] Get Several Artists
-    -[ ] Get Artist's Albums
-    -[ ] Get Artist's Top Tracks
-    -[ ] Get Artist's Related Artists
--[ ] **Audiobooks**
-    -[ ] Get an Audiobook
-    -[ ] Get Several Audiobooks
-    -[ ] Get Audiobook Chapters
-    -[ ] Get User's Saved Audiobooks
-    -[ ] Save Audiobooks for Current User
-    -[ ] Remove User's Saved Audiobooks
-    -[ ] Check User's Saved Audiobooks
--[ ] **Categories**
-    -[ ] Get Several Browse Categories
-    -[ ] GGet Single Browse Category
--[ ] **Chapters**
-    -[ ] Get a Chapter
-    -[ ] Get Several Chapters
--[ ] **Episodes**
-    -[ ] Get Episode
-    -[ ] Get Several Episodes
-    -[ ] Get User's Saved Episodes
-    -[ ] Save Episodes for Current User
-    -[ ] Remove User's Saved Episodes
-    -[ ] Check User's Saved Episodes
--[ ] **Player**
-    -[ ] Get Playback State
-    -[ ] Transfer Playback
-    -[ ] Get Available Devices
-    -[ ] Get Currently Playing Track
-    -[ ] Start/Resume Playback
-    -[ ] Pause Playback
-    -[ ] Skip To Next
-    -[ ] Skip To Previous
-    -[ ] Seek To Position
-    -[ ] Set Repeat Mode
-    -[ ] Set Playback Volume
-    -[ ] Toggle Playback Shuffle
-    -[ ] Get Recently Played Tracks
-    -[ ] Get the User's Queue
-    -[ ] Add Item to Playback Queue
--[ ] **Playlists**
-    -[ ] Get Playlist
-    -[ ] Change Playlist Details
-    -[ ] Get Playlist Items
-    -[ ] Update Playlist Items
-    -[ ] Add Items to Playlist
-    -[ ] Remove Playlist Items
-    -[ ] Get Current User's Playlists
-    -[ ] Get User's Playlists
-    -[ ] Create Playlist
-    -[ ] Get Featured Playlists
-    -[ ] Get Category's Playlists
-    -[ ] Get Playlist Cover Image
-    -[ ] Add Custom Playlist Cover Image
--[ ] **Search**
+- [ ] **Albums**
+    - [ ] Get Album
+    - [ ] Get Several Albums
+    - [ ] Get Album Tracks
+    - [ ] Get User's Saved Albums
+    - [ ] Save Albums for Current User
+    - [ ] Remove User's Saved Albums
+- [ ] **Artists**
+    - [ ] Get Artist
+    - [ ] Get Several Artists
+    - [ ] Get Artist's Albums
+    - [ ] Get Artist's Top Tracks
+    - [ ] Get Artist's Related Artists
+- [ ] **Audiobooks**
+    - [ ] Get an Audiobook
+    - [ ] Get Several Audiobooks
+    - [ ] Get Audiobook Chapters
+    - [ ] Get User's Saved Audiobooks
+    - [ ] Save Audiobooks for Current User
+    - [ ] Remove User's Saved Audiobooks
+    - [ ] Check User's Saved Audiobooks
+- [ ] **Categories**
+    - [ ] Get Several Browse Categories
+    - [ ] GGet Single Browse Category
+- [ ] **Chapters**
+    - [ ] Get a Chapter
+    - [ ] Get Several Chapters
+- [ ] **Episodes**
+    - [ ] Get Episode
+    - [ ] Get Several Episodes
+    - [ ] Get User's Saved Episodes
+    - [ ] Save Episodes for Current User
+    - [ ] Remove User's Saved Episodes
+    - [ ] Check User's Saved Episodes
+- [ ] **Player**
+    - [ ] Get Playback State
+    - [ ] Transfer Playback
+    - [ ] Get Available Devices
+    - [ ] Get Currently Playing Track
+    - [ ] Start/Resume Playback
+    - [ ] Pause Playback
+    - [ ] Skip To Next
+    - [ ] Skip To Previous
+    - [ ] Seek To Position
+    - [ ] Set Repeat Mode
+    - [ ] Set Playback Volume
+    - [ ] Toggle Playback Shuffle
+    - [ ] Get Recently Played Tracks
+    - [ ] Get the User's Queue
+    - [ ] Add Item to Playback Queue
+- [ ] **Playlists**
+    - [ ] Get Playlist
+    - [ ] Change Playlist Details
+    - [ ] Get Playlist Items
+    - [ ] Update Playlist Items
+    - [ ] Add Items to Playlist
+    - [ ] Remove Playlist Items
+    - [ ] Get Current User's Playlists
+    - [ ] Get User's Playlists
+    - [ ] Create Playlist
+    - [ ] Get Featured Playlists
+    - [ ] Get Category's Playlists
+    - [ ] Get Playlist Cover Image
+    - [ ] Add Custom Playlist Cover Image
+- [ ] **Search**
     - [ ] Search for Item
